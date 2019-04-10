@@ -98,6 +98,8 @@
 # Landing page
 
 ## Large screen:
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-lg.png "Large screen:)
+
 ![alt text][landing-lg]
 
 [logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-lg.png "landing-lg Title Text 3"

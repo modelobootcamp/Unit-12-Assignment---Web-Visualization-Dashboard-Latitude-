@@ -98,34 +98,28 @@
 # Landing page
 
 ## Large screen:
-![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-lg.png "Large screen:)
-
-![alt text][landing-lg]
-
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-lg.png "landing-lg Title Text 3"
-
-
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 ## Small screen:
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-sm.png "Logo Title Text 2"
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 ## Comparisons page
 
 ## Large screen:
 
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/comparison-lg.png "Logo Title Text 2"
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 ## Small screen:
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/comparison-sm.png "Logo Title Text 2"
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 # Data page
 
 ## Large screen:
 
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/data-lg.png "Logo Title Text 2"
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 
 ## Small screen:
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/data-sm.png "Logo Title Text 2"
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 
 # Visualization pages
@@ -133,18 +127,15 @@
 You'll build four of these, one for each visualization. Here's an example of one:
 
 ## Large screen:
-
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/visualize-lg.png "Logo Title Text 2"
-https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/visualize-lg.png
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 ## Small screen:
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/visualize-sm.png "Logo Title Text 2"
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 # Navigation menu
 
 ## Large screen:
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/nav-lg.png "Logo Title Text 2"
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 ## Small screen:
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/nav-sm.png "Logo Title Text 2"
-![nav-sm.png](attachment:nav-sm.png)
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landingResize.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")

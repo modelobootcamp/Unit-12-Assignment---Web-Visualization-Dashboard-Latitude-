@@ -101,32 +101,32 @@
 # Landing page
 
 ## Large screen:
-![landing-lg.png](attachment:landing-lg.png)
+![alt text][logo]
+
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-lg.png "Logo Title Text 2"
+
 
 ## Small screen:
-
-![landing-sm.png](attachment:landing-sm.png)
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-sm.png "Logo Title Text 2"
 
 ## Comparisons page
 
 ## Large screen:
 
-## Large screen:
-
-![comparison-lg.png](attachment:comparison-lg.png)
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/comparison-lg.png "Logo Title Text 2"
 
 ## Small screen:
-![comparison-sm.png](attachment:comparison-sm.png)
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/comparison-sm.png "Logo Title Text 2"
 
 # Data page
 
 ## Large screen:
 
-![data-lg.png](attachment:data-lg.png)
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/data-lg.png "Logo Title Text 2"
 
-Small screen:
 
-![data-sm.png](attachment:data-sm.png)
+## Small screen:
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/data-sm.png "Logo Title Text 2"
 
 
 # Visualization pages
@@ -135,18 +135,17 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 ## Large screen:
 
-
-![visualize-lg.png](attachment:visualize-lg.png)
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/visualize-lg.png "Logo Title Text 2"
+https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/visualize-lg.png
 
 ## Small screen:
-
-![visualize-sm.png](attachment:visualize-sm.png)
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/visualize-sm.png "Logo Title Text 2"
 
 # Navigation menu
 
 ## Large screen:
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/nav-lg.png "Logo Title Text 2"
 
-![nav-lg.png](attachment:nav-lg.png)
 ## Small screen:
-
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/nav-sm.png "Logo Title Text 2"
 ![nav-sm.png](attachment:nav-sm.png)

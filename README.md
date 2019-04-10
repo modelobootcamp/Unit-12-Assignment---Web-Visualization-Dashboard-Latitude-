@@ -101,9 +101,9 @@
 # Landing page
 
 ## Large screen:
-![alt text][logo]
+![alt text][landing-lg]
 
-[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-lg.png "Logo Title Text 2"
+[logo]: https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/landing-lg.png "landing-lg Title Text 3"
 
 
 ## Small screen:

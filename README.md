@@ -109,7 +109,9 @@
 ![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/comparison-lg.png "Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
 
 ## Small screen:
-![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/comparison-sm.png"Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.")
+
+
+![alt text](https://github.com/modelobootcamp/Unit-12-Assignment---Web-Visualization-Dashboard-Latitude-/blob/master/comparison-sm.png)
 
 # Data page
 

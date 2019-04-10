@@ -5,7 +5,7 @@
 
 #### Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![landingResize%20%281%29.png](attachment:landingResize%20%281%29.png)
+![landingResize.png](attachment:landingResize.png)
 
 #### Latitude - Latitude Analysis Dashboard with Attitude
 
